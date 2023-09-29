@@ -1,6 +1,5 @@
 # Scraping-Baseball-Matches-Information
-The purpose of this project is to scrape baseball mathces information from flashscore.com for further analysis.
-It is nesessary to get the following information: 
+The purpose of this project is to scrape the following information of baseball matches from flashscore.com for further analysis.
 - League
 - Teams
 - Date of the match
